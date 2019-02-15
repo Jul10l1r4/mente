@@ -5,4 +5,4 @@ Loucuras, pensamentos poesias, tudo solto pelos diretórios, apenas em markdown,
 # Textos
 * [textos/alto-paraiso.txt](textos/alto-paraiso.txt)
 * [textos/passaro-cativo.txt](textos/passaro-cativo.txt)
-
+* [textos/recomecar-tim-bernardes.txt](recomecar-tim-bernardes.txt)
