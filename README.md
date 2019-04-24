@@ -6,7 +6,9 @@ Loucuras, pensamentos poesias, tudo solto pelos diretórios, apenas em markdown,
 
 # Textos
 * [textos/A-prestes.txt](textos/A-prestes.txt)
+* [textos/Canto-para-atabaque.txt](textos/Canto-para-atabaque.txt)
 * [textos/Jupter.txt](textos/Jupter.txt)
+* [textos/Muralha-URSS.txt](textos/Muralha-URSS.txt)
 * [textos/SOS.txt](textos/SOS.txt)
 * [textos/alto-paraiso.txt](textos/alto-paraiso.txt)
 * [textos/eu-vou-ter-sdds-Oterno.txt](textos/eu-vou-ter-sdds-Oterno.txt)
