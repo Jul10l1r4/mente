@@ -5,6 +5,7 @@ Loucuras, pensamentos poesias, tudo solto pelos diretórios, apenas em markdown,
 ![A pobreza não é um acidente. Assim como a escravização e o Apartheid, a pobreza foi criada pello homem e pode ser removida pelas ações dos seres humanos](https://static.frasesparaface.com.br/imagem/a/p/a-pobreza-nao-e-um-acidente-assim-como-a.jpg)
 
 # Textos
+* [textos/A-prestes.txt](textos/A-prestes.txt)
 * [textos/Jupter.txt](textos/Jupter.txt)
 * [textos/SOS.txt](textos/SOS.txt)
 * [textos/alto-paraiso.txt](textos/alto-paraiso.txt)
