@@ -1,0 +1,3 @@
+remote_theme: "wowthemesnet/mediumish-theme-jekyll/"
+plugins:
+- jekyll-include-cache-0.2.0
